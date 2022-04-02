@@ -1,5 +1,5 @@
 <div align="center">
-  Oii! Eu sou o Nícolas, estou fazendo uns cursinhos de linguagens de programação para me profissionalizar!
+  Oii! Eu sou o Nícolas, sou estudante de programação!
 </div>
 
 ##
