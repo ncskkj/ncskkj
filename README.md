@@ -14,9 +14,8 @@
   <img align="center" alt="Ncs-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Ncs-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Ncs-JavaS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
   <img align="right" alt="Ncs-pic" height="130" style="border-radius:50px;" src="https://i.imgur.com/34EpNc2.gif">
+</div>
   
   ##
   
