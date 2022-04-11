@@ -16,7 +16,6 @@
   <img align="center" alt="Ncs-JavaS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div><br>
   
-  Estudando no momento:
   <img align="right" alt="Ncs-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/34EpNc2.gif">
   
   ##
