@@ -1,7 +1,3 @@
-<div align="center">
-  Oii! Eu sou o Nícolas, sou estudante de programação!
-</div>
-
 ##
 
 <div align="center">
