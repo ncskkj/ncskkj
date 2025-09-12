@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/ncskkj">
-  <img height="600em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncskkj&layout=compact&langs_count=7&theme=dark"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 </div>
   
 <div style="display: inline_block"><br>
