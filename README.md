@@ -7,19 +7,19 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ncs-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Ncs-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Ncs-JavaS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ncs-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Ncs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
-  <img align="center" alt="Ncs-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Ncs-VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Ncs-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Ncs-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Ncs-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Ncs-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Ncs-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
-  <img align="right" alt="Ncs-pic" height="140" style="border-radius:50px;" src="https://i.imgur.com/34EpNc2.gif">
+  <img align="center" alt="Ncs-HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Ncs-CSS3" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Ncs-JavaS" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ncs-TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Ncs-React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
+  <img align="center" alt="Ncs-NextJS" title="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Ncs-VueJS" title="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Ncs-jQuery" title="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Ncs-Redux" title="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Ncs-Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Ncs-Tailwind" title="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Ncs-SQLite" title="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
+  <img align="right" alt="Ncs-pic" title="" height="140" style="border-radius:50px;" src="https://i.imgur.com/34EpNc2.gif">
 </div>
   
   ##
