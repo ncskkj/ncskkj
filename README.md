@@ -2,7 +2,6 @@
 
 <div align="center">
   <a href="https://github.com/ncskkj">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncskkj&theme=dark&show_icons=true)
 </div>
   
 <div style="display: inline_block"><br>
