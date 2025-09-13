@@ -4,7 +4,9 @@
   <a href="https://github.com/ncskkj">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncskkj&layout=compact&size_weight=0.5&count_weight=0.5&theme=react)
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncskkj&layout=compact&size_weight=0.5&count_weight=0.5&theme=react&hide_progress=true)
+</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ncs-HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
