@@ -29,6 +29,6 @@
   ##
   
 <div> 
-  <a href="https://instagram.com/fvckncs" target="_blank"><img src="[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)" target="_blank"></a>
-  <a href="mailto:nss313245@gmail.com"><img src="[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)" target="_blank"></a>
+  <a href="https://instagram.com/fvckncs" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" target="_blank"></a>
+  <a href="mailto:nss313245@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" target="_blank"></a>
 </div>
